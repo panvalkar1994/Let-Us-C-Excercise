@@ -10,6 +10,7 @@ Write a program to calculate the salary as per the table shown in image "Salary.
 */
 // Solution:
 
+
 #include<stdio.h>
 
 int main()

@@ -3,6 +3,7 @@
 
 /* Run the following  C program*/
 /*The ouputs will clearify that if statement gets triggered positive if it gets condtion anything non-zero*/
+
 #include<stdio.h>
 
 int main()

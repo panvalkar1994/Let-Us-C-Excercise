@@ -5,7 +5,6 @@
 /*
 If a four-digit number is input through the keyboard, write a program to obtain the sum of first and last digits of this number.
 */
-
 //Solution:
 
 #include<stdio.h>

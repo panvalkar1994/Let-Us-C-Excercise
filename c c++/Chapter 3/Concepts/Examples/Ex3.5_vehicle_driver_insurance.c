@@ -13,6 +13,7 @@ A company insures its drivers in the following cases:
 */
 // Solution:
 
+
 #include<stdio.h>
 
 int main()
