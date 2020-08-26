@@ -20,7 +20,7 @@ int main(void)
     {
         /*user input*/
         uc = -1;
-        while (uc<1 || uc>4)
+        while (uc<1 || uc>4 && match==1)
         {
             printf("Choose a number from (1,2,3,4)\n");
             scanf("%d", &uc);
