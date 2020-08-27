@@ -29,4 +29,6 @@ int main(void)
     }
     printf("First: %d %d\n", thread[0][0][0],***thread);
     printf("Last: %d %d", thread[2][1][0], *(*(*(thread + 2) + 1) + 0));
+
+    return 0;
 }
