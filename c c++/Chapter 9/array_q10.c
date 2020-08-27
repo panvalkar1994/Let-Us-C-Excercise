@@ -65,6 +65,5 @@ int main(void)
         }
         printf("\n%d is max in column %d", max, j);
     }
-
-
+    return 0;
 }
