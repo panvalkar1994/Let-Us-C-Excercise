@@ -8,6 +8,7 @@ Paper of size A0 has dimensions 1189mm x 841mm. Each subsequent size A(n) is def
 
 //Solution:
 
+
 #include<stdio.h>
 
 int main()

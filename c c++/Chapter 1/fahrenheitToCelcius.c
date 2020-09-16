@@ -7,6 +7,7 @@ Temperature of a city in fahrenheit degrees is input through the keyboard.Write 
 */
 //Solution:
 
+
 #include<stdio.h>
 
 int main()

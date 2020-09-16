@@ -9,6 +9,7 @@ and house rent allowance is 20% of the basic salary. Write a program to calculat
 
 //Solution:
 
+
 #include<stdio.h>
 
 int main()

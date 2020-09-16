@@ -7,8 +7,9 @@ Wind Chill Factor is the felt air temperature on exposed skin due to wind. The w
     wcf=35.74+0.6215t+(0.4275t-35.75)*v^0.16
 Write a program to receive values of temperature and wind velocity and calculate wind chill factor.
 */
-
 //Solution:
+
+
 #include<stdio.h>
 #include<math.h>
 

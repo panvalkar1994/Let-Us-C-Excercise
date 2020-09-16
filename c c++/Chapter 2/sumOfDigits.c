@@ -7,6 +7,7 @@ If a five-digit number is input through the keyboard, write a program to calcula
 */
 //Solution:
 
+
 #include<stdio.h>
 
 int main()

@@ -8,8 +8,8 @@ In this example I will explore how to add multiple lines in if code block.
 /*
 The current year and the year of joining to the organisation is entered through keyboard. If the number of years for which the employee is serving the organisation is more than or equal to 3, then bonus of Rs. 25000 is given to the employee. If the years of service is less than 3 then the program should do nothing.
 */
-
 //Solution:
+
 #include<stdio.h>
 
 int main()

@@ -5,7 +5,6 @@
 /*
 If lengths of three sides of a traingle are input through keyboard, write a program to find the area of the traingle.
 */
-
 //Solution:
 
 #include<stdio.h>

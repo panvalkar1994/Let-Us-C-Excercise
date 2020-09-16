@@ -9,6 +9,7 @@ The distance between two cities (in kms.) is input through the keyboard. write a
 
 //Solution:
 
+
 #include<stdio.h>
 
 int main()

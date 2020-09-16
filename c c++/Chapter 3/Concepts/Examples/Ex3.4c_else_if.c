@@ -13,8 +13,8 @@ The marks obtained by a student in 5 different subjects are input through the ke
     Percentage less than 40-Fail
 Write a program to calculate division obtained by the student.
 */
-
 //Solution:
+
 #include<stdio.h>
 
 int main()

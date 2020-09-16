@@ -9,6 +9,7 @@ Two numbers input through the keyboard into two locations C and D. Write a progr
 
 //Solution:
 
+
 #include<stdio.h>
 
 int main()

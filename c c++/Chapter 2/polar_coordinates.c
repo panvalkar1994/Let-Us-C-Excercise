@@ -7,8 +7,10 @@ Write a program to receive Cartesian co-ordinates(x,y) of a point and convert th
 */
 
 //Solution:
+
 #include<stdio.h>
 #include<math.h>
+
 int main()
 {
     /* Create variables to store (x,y) and give polar co-ordinates*/

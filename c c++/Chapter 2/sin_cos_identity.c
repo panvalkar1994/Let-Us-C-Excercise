@@ -5,8 +5,9 @@
 /*
 Write a program to receive value of an angle in degrees and check whether sum of squares of sine and cosine of this angle is 1.
 */
-
 //Solution:
+
+
 #include<stdio.h>
 #include<math.h>
 
